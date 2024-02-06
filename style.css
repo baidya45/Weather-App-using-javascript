@@ -15,7 +15,7 @@ body{
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
-    padding: 40px 35px;
+    padding: 30px 35px;
     text-align: center;
 }
 .search{
@@ -41,8 +41,8 @@ body{
     outline: 0;
     background: #ebfffc;
     border-radius: 50%;
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -50,7 +50,7 @@ body{
 
 }
 .search button img{
-    width: 24px;
+    width: 18px;
     outline: 0;
     
 }
